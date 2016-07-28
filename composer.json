@@ -9,7 +9,9 @@
             "email": "filipdrabik@calls9.com"
         }
     ],
-    "require": {},
+    "require": {
+        "nategood/httpful": "*"
+    },
     "require-dev": {
         "phpunit/phpunit": "4.0.*"
     },
